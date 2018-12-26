@@ -2,6 +2,8 @@
 
 > a non-fancy, minimalistic node.js server router
 
+The JavaScript here is _very_ ✨ fancy ✨, but the router itself is not. Just pass it [a route, then a filename 📂 or function λ], and if the user goes to that route, the server will send that file or run that function.
+
 ## Usage
 
 ```js
