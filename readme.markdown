@@ -25,6 +25,16 @@ createServer(router).listen(9090, () => {
 
 ```
 
+## API
+
+```js
+nonfancy([
+  [UrlPattern, FileName || Function]
+])
+```
+
+Pass non-fancy-router an array of routing arrays.  The first routing array argument is a [murl pattern](https://github.com/mafintosh/murl), the second routing array argument is either the name of the you want to send from your server, or a function.
+
 ## Install
 
 With [npm](https://npmjs.org/) installed, run
