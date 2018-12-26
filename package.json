@@ -1,6 +1,6 @@
 {
   "name": "non-fancy-router",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a non-fancy, minimalistic node.js server router",
   "main": "index.js",
   "scripts": {
