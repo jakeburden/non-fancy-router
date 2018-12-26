@@ -1,0 +1,29 @@
+{
+  "name": "non-fancy-router",
+  "version": "1.0.0",
+  "description": "a non-fancy, minimalistic node.js server router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "non-fancy",
+    "minimalistic",
+    "router",
+    "http"
+  ],
+  "author": "Jake Burden <jake@burden.blog>",
+  "license": "MIT",
+  "dependencies": {
+    "murl": "^0.4.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jekrb/non-fancy-router.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jekrb/non-fancy-router/issues"
+  },
+  "homepage": "https://github.com/jekrb/non-fancy-router#readme"
+}
