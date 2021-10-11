@@ -35,7 +35,7 @@ nonfancy([
 ])
 ```
 
-Pass non-fancy-router an array of routing arrays.  The first routing array argument is a [murl pattern](https://github.com/mafintosh/murl), the second routing array argument is either the name of the you want to send from your server, or a function.
+Pass non-fancy-router an array of routing arrays.  The first routing array argument is a [murl pattern](https://github.com/mafintosh/murl), the second routing array argument is either the name of the file you want to send from your server, or a function.
 
 ## Install
 
